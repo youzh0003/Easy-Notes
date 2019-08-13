@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1556343405",
+    "firebase_url": "https://my-apps-4597a.firebaseio.com",
+    "project_id": "my-apps-4597a",
+    "storage_bucket": "my-apps-4597a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1556343405:android:02f01ba91c982e26",
+        "android_client_info": {
+          "package_name": "com.zhiyong.easy_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1556343405-77npfdekokme2fep0l8k9hofb935j6nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPD-ujnISxrb6jYNcZx6O3KbAfY0a87Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1556343405-77npfdekokme2fep0l8k9hofb935j6nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
