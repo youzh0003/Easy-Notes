@@ -3,6 +3,7 @@ package com.zhiyong.easy_note.injection.component;
 import com.zhiyong.easy_note.ui.home.MainActivity;
 import com.zhiyong.easy_note.injection.PerActivity;
 import com.zhiyong.easy_note.injection.module.ActivityModule;
+import com.zhiyong.easy_note.ui.main.MainView;
 
 import dagger.Component;
 
@@ -15,4 +16,6 @@ import dagger.Component;
 
 public interface ActivityComponent {
     void inject(MainActivity activity);
+
+    void inject(MainView mainView);
 }

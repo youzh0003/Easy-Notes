@@ -8,4 +8,5 @@ ext {
     timberVersion = "4.6.0"
     utilcodeVer = "1.5.1"
     materialDialogVersion = "0.9.6.0"
+    butterKnifeVersion = "8.8.1"
 }
